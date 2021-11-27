@@ -1,11 +1,11 @@
 ==================================================================
-https://keybase.io/domoritz
+https://keybase.io/schuelermo
 --------------------------------------------------------------------
 
 I hereby claim:
 
-  * I am an admin of https://www.domoritz.de
-  * I am domoritz (https://keybase.io/domoritz) on keybase.
+  * I am an admin of https://moritzschueler96.github.io
+  * I am SchuelerMo (https://keybase.io/schuelermo) on keybase.
   * I have a public key ASAJGx2jml7Mvdjd-wJ7HvYUxb6cRMtAlXUGzl2Ja0c3tAo
 
 To do so, I am signing this object:
@@ -17,10 +17,10 @@ To do so, I am signing this object:
             "host": "keybase.io",
             "kid": "0120091b1da39a5eccbdd8ddfb027b1ef614c5be9c44cb40957506ce5d896b4737b40a",
             "uid": "f9721498d77cbad77348db7cf0ffaf19",
-            "username": "domoritz"
+            "username": "SchuelerMo"
         },
         "service": {
-            "hostname": "www.domoritz.de",
+            "hostname": "https://moritzschueler96.github.io",
             "protocol": "https:"
         },
         "type": "web_service_binding",
@@ -49,6 +49,6 @@ hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgCRsdo5pezL3Y3fsCex72FMW+nETLQJV1
 And finally, I am proving ownership of this host by posting or
 appending to this document.
 
-View my publicly-auditable identity here: https://keybase.io/domoritz
+View my publicly-auditable identity here: https://keybase.io/schuelermo
 
 ==================================================================

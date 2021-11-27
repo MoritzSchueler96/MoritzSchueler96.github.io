@@ -1,33 +1,48 @@
-- title: University of Washington
+- title: Technical University Munich
   courses:
-    - title: Distributed Systems
-      with: Tom Anderson
-    - title: Data Visualization
-      with: Jeffrey Heer
-    - title: Programming Languages
-      with: Zach Tatlock
-    - title: Databases
-      with: Magdalena Balazinska
-    - title: Computer Vision
-      with: Ali Farhadi
     - title: Machine Learning
-      with: Sham Kakade
-    - title: Statistical Methods for Machine Learning
-      with: Pedro Domingos
-    - title: Constraint Programming
-      with: Alan Borning
-    - title: User Studies
-      with: Mike Ernst
-- title: University of Potsdam
+      with: Stephan Günnemann
+    - title: Machine Learning for Graphs and Sequential Data
+      with: Stephan Günnemann
+    - title: Selected Topics in Machine Learning Research - Adversarial Training
+      with: Stephan Günnemann
+    - title: Introduction to Deep Learning
+      with: Matthias Niessner
+    - title: Advanced Deep Learning for Robotics
+      with: Berhold Bäuml
+    - title: Advanced Deep Learning for Computer Vision
+      with: Laura Léal-Taixe
+    - title: Computer Vision - Multiple View Geometry
+      with: Daniel Cremers
+    - title: Computer Vision - Detection, Segmentation & Tracking
+      with: Laura Léal-Taixe
+    - title: Natural Language Processing
+      with: Georg Groh
+    - title: Machine Learning for NLP Applications - Explainability
+      with: Georg Groh
+    - title: Social Computing
+      with: Georg Groh
+    - title: Techniques in Artificial Intelligence
+      with: Matthias Althoff
+    - title: Business Analytics
+      with: Martin Bichler
+    - title: Foundations in Data Engineering
+      with: Thomas Neumann
+    - title: Data, Science & Society
+      with: Bernhard Maier
+    - title: Cloud Computing
+      with: Michael Gerndt
+    - title: IT Security
+      with: Claudia Eckert
+- title: Cooperative State University Stuttgart
   courses:
-    - title: Declarative Problem Solving
-    - title: Applied Logic
-    - title: Artificial Intelligence
-- title: Hasso Plattner Institute
-  courses:
-    - title: Databases I and II
-    - title: Designing Interactive Systems
-    - title: Computer Graphics
+    - title: Programming in C
+    - title: Control Systems
     - title: Software Engineering
-    - title: Operating Systems
-    - title: Computational Geometry
+    - title: Microcomputers
+- title: DHBW Engineering
+  functions:
+    - title: Head of Electronics
+    - title: Component Manager Safety Circuit
+    - title: Electrical Safety Officer
+    - title: Driver

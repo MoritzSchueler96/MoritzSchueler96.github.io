@@ -6,13 +6,10 @@ class: pubs
 ---
 
 {:.hidden}
+
 # Publications
 
 <div id="facets" class="hidden">
-  <div class="facet" id="venue_tags">
-    <strong>Venue</strong>
-    <ul></ul>
-  </div>
   <div class="facet" id="authors">
     <strong>Author</strong>
     <ul></ul>
@@ -25,11 +22,6 @@ class: pubs
     <strong>Type</strong>
     <ul></ul>
   </div>
-  <div class="facet" id="awards">
-    <strong>Award</strong>
-    <ul></ul>
-  </div>
-
 </div>
 
 <div class="p1 db">
@@ -48,10 +40,12 @@ class: pubs
 {% assign pubyears = site.publications | group_by:"year"  %}
 {% assign sorted_pubyears = pubyears | reverse %}
 {% for year in sorted_pubyears %}
+
 ## {{ year.name }}
+
 {:#y{{ year.name }} .year}
 {% for pub in year.items %}
-  {% include publication.html pub=pub %}
+{% include publication.html pub=pub %}
 {% endfor %}
 {% endfor %}
 

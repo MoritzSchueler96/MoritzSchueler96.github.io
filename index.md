@@ -4,34 +4,33 @@ title: "Home"
 class: home
 ---
 
-# Hi, I'm Dominik Moritz
+# Hi, I'm Moritz Schüler
 
 <div class="columns" markdown="1">
 
 <div class="intro" markdown="1">
-I'm faculty at the [Human-Computer Interaction Institute](https://hcii.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) and an ML researcher at [Apple](https://www.apple.com/) <i class="fab fa-apple"></i>. I design and build interactive systems for visualization and analysis. At CMU, I co-lead the [Data Interaction Group](https://dig.cmu.edu/).
+I currently pursue my masters in [Robotics, Cognition, Intelligence](https://www.tum.de/studium/studienangebot/detail/robotics-cognition-intelligence-master-of-science-msc) with focus on Machine Learning and Deep Learning at the [Technical University](https://www.tum.de/) <img width="30" height="15" src="/images/TUM Logo.png" alt="Tum Logo icon"> in Munich.
 
-I received my PhD from the [Paul G. Allen School](https://www.cs.washington.edu/) at the [University of Washington](https://www.washington.edu/), where I worked with [Jeff Heer](https://homes.cs.washington.edu/~jheer/) and [Bill Howe](https://homes.cs.washington.edu/~billhowe/) in the [Interactive Data Lab](http://idl.cs.washington.edu/) and the [Database Group](https://db.cs.washington.edu/).
+Some more info
 
-My systems have [won](https://vega.github.io/vega-lite/) [awards](https://uwdata.github.io/draco/) at premier academic venues and are used by the [Python](https://altair-viz.github.io) and [JavaScript](https://vega.github.io/vega-lite/) data science communities.
 </div>
 
 <div class="me" markdown="1">
 <picture>
-  <source srcset='/images/dominik_berlin.webp' type='image/webp' />
+  <source srcset='/images/Passbild.webp' type='image/webp' />
   <img
-    src='/images/dominik_berlin.jpg'
-    alt='Dominik Moritz'>
+    src='/images/Passbild.jpg'
+    alt='Picture of Me: Moritz Schüler'>
 </picture>
 
 {:.no-list}
-* <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-* NSH 2602B
+
+- <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 </div>
 
 </div>
 
-During my first year at UW, I received support from the [Fulbright program](https://en.wikipedia.org/wiki/Fulbright_Program). In 2013, I received my B.S. from [Hasso Plattner Institute](https://hpi.de/). I am a scholar of the [German National Academic Foundation](http://www.studienstiftung.de/). I have worked with the [Open Knowledge Foundation](http://www.okfn.org), [Google Research](https://ai.google/research/), and [Microsoft Research](https://www.microsoft.com/en-us/research/group/vibe/). Details are in my [CV]({{ "/cv/" | relative_url }}).
+During my bachelor at CSU Stuttgart, I was one of the leaders of the [Formula Student](https://www.formulastudent.de/fsg/) student program [DHBW Engineering](https://www.dhbw-engineering.de/). In 2017, I received my B.Eng. from [Cooperative State University Stuttgart](https://www.dhbw-stuttgart.de/). I was a scholar of the [Deutschlandstipendium](https://www.deutschlandstipendium.de/deutschlandstipendium/de/home/home_node.html). I have worked as an engineer at [Porsche AG](https://www.porsche.com/germany/). Details are in my [CV]({{ "/cv/" | relative_url }}).
 
 ## Featured Projects
 
@@ -65,8 +64,8 @@ During my first year at UW, I received support from the [Fulbright program](http
 </div>
 
 <a href="{{ "/publications/" | relative_url }}" class="button">
-  <i class="fas fa-chevron-circle-right"></i>
-  Show All Publications
+<i class="fas fa-chevron-circle-right"></i>
+Show All Publications
 </a>
 
 <div class="news-travel" markdown="1">

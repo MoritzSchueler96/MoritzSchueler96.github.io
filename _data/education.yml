@@ -1,22 +1,27 @@
-- university: University of Washington
-  years: 2015-2019
-  degree: Ph.D. in Computer Science & Engineering
-  location: Seattle, WA
+- university: Technical University Munich
+  years: 2019-2022
+  degree: M. Sc. in Computer Science
+  location: Munich, BY
   description:
-    - Advised by **Jeffrey Heer** and **Bill Howe**.
-    - "Thesis: \"Interactive Systems for Scalable Visualization & Analysis\"."
-    - Member of the Interactive Data Lab and Database Group.
-- university: University of Washington
-  years: 2013-2015
-  degree: M.S. in Computer Science & Engineering
-  location: Seattle, WA
+    - Advised by **Someone** and **Someone**.
+    - "Thesis: \"Some Name\"."
+    - Member of the Dynamic Vision and Learning Group.
+    - "GPA: 1.5"
+- university: Cooperative State University Stuttgart
+  years: 2014-2017
+  degree: B. Eng. in Electronics
+  location: Stuttgart, BW
   description:
-    - Advised by **Bill Howe** and **Jeffrey Heer**.
-- university: Hasso Plattner Institute
-  years: 2010-2013
-  degree: B.S. in IT-Systems Engineering
-  location: Potsdam, Germany
+    - Advised by **Timo Maise** and **Winfried Bantel**.
+    - "Thesis: \"Messdatenauswertung zur Konzeptionierung von lernenden Fahrzeugfunktionen\"."
+    - "GPA: 1.7"
+- university: DHBW Engineering
+  years: 2015-2017
+  degree: Team leader electronics
+  location: Stuttgart, BW
   description:
-    - "Thesis: \"Algorithms for the Visualization of Software System Evolution\"."
-    - "GPA: 4.0 (1.0 in German system), highest distinction, rank 1/74"
-    - Advanced classes on database implementation, computational geometry, architecture, and logic.
+    - Component Manager Safety Circuit
+    - Electrical Safety Officer
+    - Driver
+    - "lead a team of 17 people designing the electronics of a race car."
+    - "Achieved best season performance of the team history in 2017, ranking 5th place in the world."

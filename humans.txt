@@ -1,10 +1,10 @@
 /* TEAM */
-	Author/Theme: Dominik Moritz
-	Twitter: @domoritz
-	From: Berlin, Germany
+	Author/Theme: Moritz Schüler
+	Twitter: @schuelermo
+	From: Munich, Germany
 
 /* SITE */
 	Language: English / German
 	Doctype: HTML5
-	IDE: Sublime Text, VIM, VSCode
+	IDE: VSCode
 	Software: Jekyll

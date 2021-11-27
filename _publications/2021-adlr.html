@@ -1,0 +1,28 @@
+---
+layout: publication
+authors:
+  - Patrick Stecher
+  - Moritz Schüler
+highlight: true
+pdf: link_to_arxiv.pdf
+arxiv: "arxiv_number"
+tags:
+- Advanced Deep Learning
+- Deep Reinforcement Learning
+title: Evaluation of a meta-reinforcement learning controller for Fixed Wing UAVs
+description: Magpy is a meta reinforcement learning algorithm to autonomously steer a drone along waypoints.
+link: https://github.com/MoritzSchueler96/TUM_ADLR_Deep_Reinforcement_Learning
+type:
+  - Journal
+year: 2021
+---
+
+As of 2020, fixed wing UAVs already have a broad spectrum of applications: forest monitoring, building inspection,
+archaeology or blood transfusion delivery. In most applications the high flying speed as well as high energy efficiency,
+thus long flight duration is valued. For rapidly changing demands or when reacting to unforeseen disturbances (weather,
+wind, thermals) current solutions still require either a trained human pilot, lots of training data or can only utilize
+a reduced flight envelope. We therefore try to achieve a solution, trained in simulation, that shows a good sample
+efficiency and generalizes better to unseen disturbances than current control approaches.
+Using an off-policy meta reinforcement learning algorithm named PEARL, we aim to train an agent within the
+pyfly-simulator in an own gym environment to control a fixed-wing UAV to follow a pre-defined trajectory, hoping to
+achieve high robustness and better sample efficiency than standard SAC.
